@@ -63,7 +63,8 @@ section.normal{
     background-color: white;
     color: black;
     font-family: var(--font4);
-    font-size: 4vw;
+    font-size: 30px;
+   
     
 }
 section.imagem{
